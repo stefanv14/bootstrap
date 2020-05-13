@@ -1,0 +1,17 @@
+{
+  "name": "bootstrap-druga-radionica-master",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "homepage": "https://stefanv14.github.io/bootstrap",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
